@@ -1,5 +1,5 @@
-# eletron-demo
-eletron demo 项目
+# electron-demo
+electron demo 项目
 
 > An electron-vue project
 
